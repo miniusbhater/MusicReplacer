@@ -1,4 +1,5 @@
 # MusicReplacer
+# ![Downloads](https://img.shields.io/github/downloads/miniusbhater/MusicReplacer/total?style=flat)
 Replaces the default in game music for SimplePlanes 2
 <br /><img width="294" height="396" alt="image" src="https://github.com/user-attachments/assets/5c7c89a0-8f40-4fe2-911a-68e6aa527980" />
 <br />Press Y to toggle the GUI
